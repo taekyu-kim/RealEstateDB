@@ -6,11 +6,11 @@ This Project is implementing the Database and the related DB application program
 
 > Requirements
 
-You need ERWin, MySQL and any kinds of C++ compiler to run this program successfully. After that, connect the ODBC application with MySQL.
+You need ERWin, MySQL and any kinds of C compiler to run this program successfully. After that, connect the ODBC application with MySQL.
 
 
 > Configuration
 
-~> Project 1 folder with LogicalSchema.erwin, E-R Diagram, Document.pdf
+~> Project 1 folder with LogicalSchema.erwin, Document.pdf
 
-~> Project 2 folder with PhysicalSchema.erwin, E-R Diagram, Document.pdf, ApplicationProgram programs
+~> Project 2 folder with PhysicalSchema.erwin, Document.pdf, ApplicationProgram programs
