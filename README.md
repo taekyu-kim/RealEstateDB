@@ -1,5 +1,5 @@
-* DB-Project - Real-Estate Database
-
+DB Project - Real-Estate Database
+-
 
 This Project is implementing the Database and the related DB application program of virtual real-estate company such as 'zigbang'. I developed this program based on a deep understanding of E-R Modeling, Relational Algebra, MySQL, ODBC, etc. More details are on the Document file attached.
 
